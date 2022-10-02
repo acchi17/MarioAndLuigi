@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioAndLuigi", "MarioAndLuigi\MarioAndLuigi.csproj", "{6EAB4169-3A09-481C-B233-1B0A7B60EF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioAndLuigi_Legacy", "MarioAndLuigi_Legacy\MarioAndLuigi_Legacy.csproj", "{7B970A5B-2485-4689-A9CC-F2665C193F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EAB4169-3A09-481C-B233-1B0A7B60EF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAB4169-3A09-481C-B233-1B0A7B60EF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAB4169-3A09-481C-B233-1B0A7B60EF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAB4169-3A09-481C-B233-1B0A7B60EF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B970A5B-2485-4689-A9CC-F2665C193F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B970A5B-2485-4689-A9CC-F2665C193F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B970A5B-2485-4689-A9CC-F2665C193F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B970A5B-2485-4689-A9CC-F2665C193F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C7F595-FADF-419D-ABEC-626DF2F66B52}
+	EndGlobalSection
+EndGlobal
